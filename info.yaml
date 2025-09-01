@@ -15,14 +15,8 @@ project:
   
   # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
   source_files:        
-    - "project.sv"
-    - "cdc_fifo.sv"
-    - "dpram.sv"
-    - "binary_to_gray.sv"
-    - "gray_to_binary.sv"
-    - "synchronizer.sv"
-    - "cdc_fifo_read_state.sv"
-    - "cdc_fifo_write_state.sv"
+    - "project.v"
+    
     
     
 
